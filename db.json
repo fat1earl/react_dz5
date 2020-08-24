@@ -1,0 +1,20 @@
+{
+  "films": [
+    {
+      "id": 3,
+      "title": "Titanic",
+      "year": 1998,
+      "director": "Spilberg",
+      "rate": "10/10",
+      "wouldLikeToSee": "No seen"
+    },
+    {
+      "title": "werw",
+      "year": "",
+      "director": "werwer",
+      "rate": 0,
+      "wouldLikeToSee": "",
+      "id": 4
+    }
+  ]
+}
